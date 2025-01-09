@@ -18,6 +18,8 @@ ps:本篇教程参考[INFP-MoZhu/SDU-Quick-Comment: 给懒得点教学评估的u
 
    > 本校系统不允许所有选项填同一选项orz
 
+![Uploading ed67c8c18618c01a6a336e1312868e31.png…]()
+
 代码如下:
 
 ```
