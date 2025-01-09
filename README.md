@@ -1,4 +1,4 @@
-## YIT-FAST-COMMENT-FOR-STU
+## 燕京理工YIT-FAST-COMMENT-FOR-STU
 
 ps:本篇教程参考[INFP-MoZhu/SDU-Quick-Comment: 给懒得点教学评估的uu一个快速水的方式](https://github.com/INFP-MoZhu/SDU-Quick-Comment)
 
