@@ -18,7 +18,7 @@ ps:本篇教程参考[INFP-MoZhu/SDU-Quick-Comment: 给懒得点教学评估的u
 
    > 本校系统不允许所有选项填同一选项orz
 
-![Uploading ed67c8c18618c01a6a336e1312868e31.png…]()
+
 
 代码如下:
 
@@ -34,7 +34,7 @@ document.querySelector('input[name="pj0601id_7"][value="CB592DF600A640C295DC5A1D
 
 ```
 
-![img](file:///D:\QQ_Tencent\Tencent Files\2450687812\nt_qq\nt_data\Pic\2025-01\Ori\ed67c8c18618c01a6a336e1312868e31.png)
+
 
 **注意的问题**
 
