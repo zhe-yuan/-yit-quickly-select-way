@@ -21,6 +21,7 @@ ps:本篇教程参考[INFP-MoZhu/SDU-Quick-Comment: 给懒得点教学评估的u
 
 
 代码如下:
+![ed67c8c18618c01a6a336e1312868e31](https://github.com/user-attachments/assets/fd369c73-4135-4cf1-8120-6e6c5c7d3fcf)
 
 ```
 document.querySelector('input[name="pj0601id_1"][value="90F96EE04BDC49FDBEDF7B07AA1293B8"]').checked = true;  // 言行为人师表
